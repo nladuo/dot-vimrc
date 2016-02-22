@@ -222,7 +222,8 @@ Clone in Mac
 
 2. Clone and install this repo:
 
-        git clone git://github.com/humiaozuzu/dot-vimrc.git ~/.vim
+        git clone git://github.com/nladuo/dot-vimrc.git ~/.vim
+        mkdir ~/.vim/colors;mv ~/.vim/molokai.vim ~/.vim/colors/
         ln -s ~/.vim/vimrc ~/.vimrc
 
 3. Setup `Vundle`:
