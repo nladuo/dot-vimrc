@@ -27,7 +27,7 @@ brew install ack ctags               # OS X
 
 2. Clone and install this repo:
 
-        git clone git://github.com/nladuo/dot-vimrc.git ~/.vim
+        git clone git://github.com/nladuo/myvimrc.git ~/.vim
         mkdir ~/.vim/colors;mv ~/.vim/molokai.vim ~/.vim/colors/
         ln -s ~/.vim/vimrc ~/.vimrc
 
